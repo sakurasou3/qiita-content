@@ -1,12 +1,13 @@
 ---
 title: gitを扱うツールの変遷〜Github DesktopからVSCodeへ〜
 tags:
-  - "github"
+  - GitHub
 private: true
-updated_at: ""
-id: null
+updated_at: '2023-09-30T07:38:38+09:00'
+id: e1461490ad1460104511
 organization_url_name: null
 slide: false
+ignorePublish: false
 ---
 
 # rebase というトラウマ
